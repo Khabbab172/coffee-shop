@@ -1,0 +1,13 @@
+@media (max-width: 767px) {
+    .login.height-100vh {
+        height: 100vh;
+    }
+    #currentModuleName {
+        font-size: 1.4rem;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        max-width: 170px;
+    }
+    
+}
