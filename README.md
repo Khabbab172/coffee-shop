@@ -19,3 +19,11 @@ Before you begin, ensure you have the following requirements:
 
    ```bash
    git clone https://github.com/Khabbab172/coffee-shop.git
+2. Install Server dependencies
+   composer install
+
+### Usage
+   ```bash
+   php artisan serve
+Visit http://localhost:8000 in your browser to access the application.
+
