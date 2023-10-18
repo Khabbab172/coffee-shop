@@ -25,5 +25,5 @@ Before you begin, ensure you have the following requirements:
 ### Usage
    ```bash
    php artisan serve
-1. Visit http://localhost:8000 in your browser to access the application.
+
 
